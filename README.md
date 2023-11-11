@@ -1,13 +1,10 @@
 # Canil_Eduardo_dti
 
-# Premissas 
+## Premissas
+As premissas consideradas para o funcionamento do sistema foram os nomes dos Pets Shops, as distâncias de cada um até o canil, a tabela de valores dos banhos de cachorros grandes e pequenos, e a diferença dos preços nos finais de semana. 
 
-As premissas consideradas para o funcionamento do sistema foram os nomes dos Pets Shops, as distâncias de cada um até o canil, a tabela de valores dos banhos de cachorros grandes e pequenos e a diferença dos preços nos finais de semana. 
-
- 
-# Descrição do projeto 
-
-O código inicia com uma classe ‘PetShop’ que recebe as propriedades dos Pets shops: Nome, distância, valor do banho de cachorro pequeno, valor do banho de cachorro grande, valor do banho de cachorro pequeno nos finais de semana e o valor do banho de cachorros grandes no final de semana. 
+## Descrição do sistema
+O código inicia com uma classe ‘PetShop’ que recebe as propriedades nome, distância, valor do banho de cachorro pequeno, valor do banho de cachorro grande, valor do banho de cachorro pequeno nos finais de semana e o valor do banho de cachorros grandes no final de semana. 
 
 A classe ‘Valores’ recebe as propriedades ‘ListaValor’ para armazenar os dados individuais de cada Pet Shop, e uma string ‘PetShopEscolhido’ que será usado para receber o nome do Pet Shop que for escolhido com o menor valor ou menor distância.  
 
@@ -18,3 +15,8 @@ Dentro da classe ‘Valores’ existe diversas funções. A função ‘ValidarV
 A função ‘ImputDados’ recebe os valores de entrada do usuário, e usa o método Split para reconhecer a separação de caracteres. 
 
 Por fim, o Main utiliza de uma lista ‘resultados’ para armazenamento das saídas e uma lista ‘dados’ para as entradas. O while irá servir como loop para que o usuário possa inserir dados quantas vezes quiser, até digitar 0. O for exibe as saídas finais do programa. 
+
+## Instruções para execução do sistema
+Primeiramente, clone o sistema pelo GitHub e abra o código pelo Visual Studio. Em seguida execute o sistema apertando f5 ou selecionando o botão de execução.
+
+Ao abrir o console, insira os dados desejados separando-os por espaço: Digite a data desejada (no formato DD/MM/AAAA), a quantidade de cachorros pequenos e a quantidade de cachorros grandes que serão levados ao Pet Shop.
