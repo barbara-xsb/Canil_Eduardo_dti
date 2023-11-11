@@ -1,10 +1,10 @@
 # Canil_Eduardo_dti
 
 ## Premissas
-As premissas consideradas para o funcionamento do sistema foram os nomes dos Pets Shops, as distâncias de cada um até o canil, a tabela de valores dos banhos de cachorros grandes e pequenos e a diferença dos preços nos finais de semana. 
+As premissas consideradas para o funcionamento do sistema foram os nomes dos Pets Shops, as distâncias de cada um até o canil, a tabela de valores dos banhos de cachorros grandes e pequenos, e a diferença dos preços nos finais de semana. 
 
 ## Descrição do sistema
-O código inicia com uma classe ‘PetShop’ que recebe as propriedades dos Pets shops: Nome, distância, valor do banho de cachorro pequeno, valor do banho de cachorro grande, valor do banho de cachorro pequeno nos finais de semana e o valor do banho de cachorros grandes no final de semana. 
+O código inicia com uma classe ‘PetShop’ que recebe as propriedades nome, distância, valor do banho de cachorro pequeno, valor do banho de cachorro grande, valor do banho de cachorro pequeno nos finais de semana e o valor do banho de cachorros grandes no final de semana. 
 
 A classe ‘Valores’ recebe as propriedades ‘ListaValor’ para armazenar os dados individuais de cada Pet Shop, e uma string ‘PetShopEscolhido’ que será usado para receber o nome do Pet Shop que for escolhido com o menor valor ou menor distância.  
 
