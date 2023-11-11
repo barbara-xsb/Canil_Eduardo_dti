@@ -1,0 +1,15 @@
+D:\Bárbara\Canil_do_Eduardo\Canil_do_Eduardo\bin\Debug\net6.0\Canil_do_Eduardo.exe
+D:\Bárbara\Canil_do_Eduardo\Canil_do_Eduardo\bin\Debug\net6.0\Canil_do_Eduardo.deps.json
+D:\Bárbara\Canil_do_Eduardo\Canil_do_Eduardo\bin\Debug\net6.0\Canil_do_Eduardo.runtimeconfig.json
+D:\Bárbara\Canil_do_Eduardo\Canil_do_Eduardo\bin\Debug\net6.0\Canil_do_Eduardo.dll
+D:\Bárbara\Canil_do_Eduardo\Canil_do_Eduardo\bin\Debug\net6.0\Canil_do_Eduardo.pdb
+D:\Bárbara\Canil_do_Eduardo\Canil_do_Eduardo\obj\Debug\net6.0\Canil_do_Eduardo.csproj.AssemblyReference.cache
+D:\Bárbara\Canil_do_Eduardo\Canil_do_Eduardo\obj\Debug\net6.0\Canil_do_Eduardo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bárbara\Canil_do_Eduardo\Canil_do_Eduardo\obj\Debug\net6.0\Canil_do_Eduardo.AssemblyInfoInputs.cache
+D:\Bárbara\Canil_do_Eduardo\Canil_do_Eduardo\obj\Debug\net6.0\Canil_do_Eduardo.AssemblyInfo.cs
+D:\Bárbara\Canil_do_Eduardo\Canil_do_Eduardo\obj\Debug\net6.0\Canil_do_Eduardo.csproj.CoreCompileInputs.cache
+D:\Bárbara\Canil_do_Eduardo\Canil_do_Eduardo\obj\Debug\net6.0\Canil_do_Eduardo.dll
+D:\Bárbara\Canil_do_Eduardo\Canil_do_Eduardo\obj\Debug\net6.0\refint\Canil_do_Eduardo.dll
+D:\Bárbara\Canil_do_Eduardo\Canil_do_Eduardo\obj\Debug\net6.0\Canil_do_Eduardo.pdb
+D:\Bárbara\Canil_do_Eduardo\Canil_do_Eduardo\obj\Debug\net6.0\Canil_do_Eduardo.genruntimeconfig.cache
+D:\Bárbara\Canil_do_Eduardo\Canil_do_Eduardo\obj\Debug\net6.0\ref\Canil_do_Eduardo.dll
